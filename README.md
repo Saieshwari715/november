@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Saieshwari715/november/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2365-percentage-of-letter-in-string](https://github.com/Saieshwari715/november/tree/master/2365-percentage-of-letter-in-string) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Saieshwari715/november/tree/master/2713-find-the-divisibility-array-of-a-string) |
+| [3379-score-of-a-string](https://github.com/Saieshwari715/november/tree/master/3379-score-of-a-string) |
 ## Stack
 |  |
 | ------- |
