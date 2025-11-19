@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Saieshwari715/november/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Saieshwari715/november/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/Saieshwari715/november/tree/master/0387-first-unique-character-in-a-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/Saieshwari715/november/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/Saieshwari715/november/tree/master/0500-keyboard-row) |
 | [1666-make-the-string-great](https://github.com/Saieshwari715/november/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/Saieshwari715/november/tree/master/2128-reverse-prefix-of-word) |
