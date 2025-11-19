@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1610-xor-operation-in-an-array](https://github.com/Saieshwari715/november/tree/master/1610-xor-operation-in-an-array) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Saieshwari715/november/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2752-sum-multiples](https://github.com/Saieshwari715/november/tree/master/2752-sum-multiples) |
 ## Two Pointers
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Saieshwari715/november/tree/master/0191-number-of-1-bits) |
+| [1610-xor-operation-in-an-array](https://github.com/Saieshwari715/november/tree/master/1610-xor-operation-in-an-array) |
 ## Sorting
 |  |
 | ------- |
