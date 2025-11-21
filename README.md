@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Saieshwari715/november/tree/master/0500-keyboard-row) |
 | [1319-unique-number-of-occurrences](https://github.com/Saieshwari715/november/tree/master/1319-unique-number-of-occurrences) |
 | [2058-concatenation-of-array](https://github.com/Saieshwari715/november/tree/master/2058-concatenation-of-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Saieshwari715/november/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Saieshwari715/november/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Saieshwari715/november/tree/master/2713-find-the-divisibility-array-of-a-string) |
 ## Hash Table
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saieshwari715/november/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Saieshwari715/november/tree/master/0500-keyboard-row) |
 | [1319-unique-number-of-occurrences](https://github.com/Saieshwari715/november/tree/master/1319-unique-number-of-occurrences) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Saieshwari715/november/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Saieshwari715/november/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Counting
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Saieshwari715/november/tree/master/2058-concatenation-of-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Saieshwari715/november/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Queue
 |  |
 | ------- |
@@ -78,4 +81,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Saieshwari715/november/tree/master/0049-group-anagrams) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Saieshwari715/november/tree/master/2154-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
