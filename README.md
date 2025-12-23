@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Saieshwari715/november/tree/master/0387-first-unique-character-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Saieshwari715/november/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/Saieshwari715/november/tree/master/0500-keyboard-row) |
+| [0771-jewels-and-stones](https://github.com/Saieshwari715/november/tree/master/0771-jewels-and-stones) |
 | [1666-make-the-string-great](https://github.com/Saieshwari715/november/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/Saieshwari715/november/tree/master/2128-reverse-prefix-of-word) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Saieshwari715/november/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Saieshwari715/november/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saieshwari715/november/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Saieshwari715/november/tree/master/0500-keyboard-row) |
+| [0771-jewels-and-stones](https://github.com/Saieshwari715/november/tree/master/0771-jewels-and-stones) |
 | [1319-unique-number-of-occurrences](https://github.com/Saieshwari715/november/tree/master/1319-unique-number-of-occurrences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Saieshwari715/november/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Saieshwari715/november/tree/master/2190-count-common-words-with-one-occurrence) |
