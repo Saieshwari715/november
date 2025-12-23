@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Saieshwari715/november/tree/master/0165-compare-version-numbers) |
 | [0387-first-unique-character-in-a-string](https://github.com/Saieshwari715/november/tree/master/0387-first-unique-character-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Saieshwari715/november/tree/master/0434-number-of-segments-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Saieshwari715/november/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0500-keyboard-row](https://github.com/Saieshwari715/november/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/Saieshwari715/november/tree/master/0771-jewels-and-stones) |
 | [1666-make-the-string-great](https://github.com/Saieshwari715/november/tree/master/1666-make-the-string-great) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Saieshwari715/november/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Saieshwari715/november/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/Saieshwari715/november/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Saieshwari715/november/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saieshwari715/november/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Saieshwari715/november/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/Saieshwari715/november/tree/master/0771-jewels-and-stones) |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Saieshwari715/november/tree/master/0055-jump-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Saieshwari715/november/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
