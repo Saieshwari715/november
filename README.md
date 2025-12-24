@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Saieshwari715/november/tree/master/0387-first-unique-character-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Saieshwari715/november/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Saieshwari715/november/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Saieshwari715/november/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/Saieshwari715/november/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/Saieshwari715/november/tree/master/0771-jewels-and-stones) |
 | [1666-make-the-string-great](https://github.com/Saieshwari715/november/tree/master/1666-make-the-string-great) |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Saieshwari715/november/tree/master/0438-find-all-anagrams-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Saieshwari715/november/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
