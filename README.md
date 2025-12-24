@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Saieshwari715/november/tree/master/0049-group-anagrams) |
 | [0165-compare-version-numbers](https://github.com/Saieshwari715/november/tree/master/0165-compare-version-numbers) |
 | [0387-first-unique-character-in-a-string](https://github.com/Saieshwari715/november/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Saieshwari715/november/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/Saieshwari715/november/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Saieshwari715/november/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Saieshwari715/november/tree/master/0459-repeated-substring-pattern) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Saieshwari715/november/tree/master/0165-compare-version-numbers) |
+| [0392-is-subsequence](https://github.com/Saieshwari715/november/tree/master/0392-is-subsequence) |
 | [2128-reverse-prefix-of-word](https://github.com/Saieshwari715/november/tree/master/2128-reverse-prefix-of-word) |
 ## Simulation
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Saieshwari715/november/tree/master/0055-jump-game) |
+| [0392-is-subsequence](https://github.com/Saieshwari715/november/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
