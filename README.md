@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1666-make-the-string-great](https://github.com/Saieshwari715/november/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/Saieshwari715/november/tree/master/2128-reverse-prefix-of-word) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Saieshwari715/november/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Saieshwari715/november/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2365-percentage-of-letter-in-string](https://github.com/Saieshwari715/november/tree/master/2365-percentage-of-letter-in-string) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Saieshwari715/november/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [3379-score-of-a-string](https://github.com/Saieshwari715/november/tree/master/3379-score-of-a-string) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Saieshwari715/november/tree/master/2058-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Saieshwari715/november/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Saieshwari715/november/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Saieshwari715/november/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Saieshwari715/november/tree/master/2713-find-the-divisibility-array-of-a-string) |
 ## Hash Table
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Saieshwari715/november/tree/master/1319-unique-number-of-occurrences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Saieshwari715/november/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Saieshwari715/november/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Saieshwari715/november/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Counting
 |  |
 | ------- |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Saieshwari715/november/tree/master/0049-group-anagrams) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Saieshwari715/november/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Saieshwari715/november/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Dynamic Programming
 |  |
 | ------- |
