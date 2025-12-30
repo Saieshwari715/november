@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Saieshwari715/november/tree/master/0009-palindrome-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Saieshwari715/november/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Saieshwari715/november/tree/master/1610-xor-operation-in-an-array) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Saieshwari715/november/tree/master/2713-find-the-divisibility-array-of-a-string) |
