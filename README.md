@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saieshwari715/november/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Saieshwari715/november/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Saieshwari715/november/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Saieshwari715/november/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/Saieshwari715/november/tree/master/0198-house-robber) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Saieshwari715/november/tree/master/0015-3sum) |
 | [0165-compare-version-numbers](https://github.com/Saieshwari715/november/tree/master/0165-compare-version-numbers) |
 | [0392-is-subsequence](https://github.com/Saieshwari715/november/tree/master/0392-is-subsequence) |
 | [2128-reverse-prefix-of-word](https://github.com/Saieshwari715/november/tree/master/2128-reverse-prefix-of-word) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Saieshwari715/november/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Saieshwari715/november/tree/master/0049-group-anagrams) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Saieshwari715/november/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Saieshwari715/november/tree/master/2273-find-resultant-array-after-removing-anagrams) |
