@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Saieshwari715/november/tree/master/0198-house-robber) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saieshwari715/november/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Saieshwari715/november/tree/master/0500-keyboard-row) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Saieshwari715/november/tree/master/0540-single-element-in-a-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Saieshwari715/november/tree/master/1319-unique-number-of-occurrences) |
 | [2058-concatenation-of-array](https://github.com/Saieshwari715/november/tree/master/2058-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Saieshwari715/november/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Saieshwari715/november/tree/master/0459-repeated-substring-pattern) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Saieshwari715/november/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
